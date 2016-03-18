@@ -1,0 +1,23 @@
+{
+  "name": "fti_corp",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    ""
+  ],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.1"
+  }
+}
