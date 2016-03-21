@@ -1,7 +1,7 @@
 {
-  "name": "fti_corp",
+  "name": "",
   "version": "1.0.0",
-  "description": "Franklin Templeton India Corporate Site",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
